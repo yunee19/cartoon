@@ -2,6 +2,7 @@
 
 
 *만화 같은 느낌이 잘 표현되는 영상 :
+[[![Video Recorder](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]](https://github.com/yunee19/yunee24/assets/133479803/e2f445c0-cfbc-4630-b49d-b90d405bcf0a)
 [[![output_wonoo_video_ok](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]](https://github.com/yunee19/cartoon/assets/133479803/0d0c6080-b3e7-43ed-993d-bd71949e5293)
 
 • 만화 같은 느낌이 잘 표현되지 않는 영상 만들기 :
