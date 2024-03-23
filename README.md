@@ -5,7 +5,7 @@
 
 [[![output_wonoo_video_ok](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]](https://github.com/yunee19/cartoon/assets/133479803/0d0c6080-b3e7-43ed-993d-bd71949e5293)
 
-• 만화 같은 느낌이 잘 표현되지 않는 영상 만들기 :
+• 만화 같은 느낌이 잘 표현되지 않는 영상 :
 
 [[![output_wonoo_video_hong](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]](https://github.com/yunee19/cartoon/assets/133479803/d1b6bd73-1718-4f88-9f29-fd07be3392bc)
 
@@ -15,3 +15,5 @@
 -부정확한 가장자리 감지: 경우에 따라 가장자리 감지가 부정확하여 애니메이션 일관성이 손실될 수 있습니다.
 
 -이미지 처리 방법의 한계: 알고리즘에 사용되는 이미지 처리 방법은 전문 애니메이션 영화의 모든 기능과 스타일을 재현할 만큼 유연하지 않을 수 있습니다.
+
+감사합니다~~
